@@ -1,11 +1,11 @@
 <resource:DataRepository
     xmlns:resource="http://www.tmaxsoft.com/top/SNAPSHOT/resource"
     id="drCommonCode"
-    ideUniqueId="IDf184616550d0353ea4d9d8ebea34ea73"
+    ideUniqueId="IDa3eb23a6cc7030d2a85d7854c8c60836"
     package="com.tmax.fi.core.dm.codegroup">
         <resource:ListData
         id="diCommonCode"
-        ideUniqueId="IDc8c17e35411d3290b5539828ee46f3f8"
+        ideUniqueId="ID2aad0cbfaf2f369f9caa2ad60ed39a8c"
         modelId="dmCommonCode">
             <resource:ListItem
             modelId="dmCommonCode">
@@ -25,74 +25,4 @@
                 fieldName="PARENT_CODE_ID"/>
             </resource:ListItem>
         </resource:ListData>
-        <resource:ListData
-        id="diCommonCode_FCYR"
-        ideUniqueId="ID0a4f57797b6d3dbbb836952f7666cfe6"
-        modelId="dmCommonCode">
-            <resource:ListItem
-            modelId="dmCommonCode">
-                <resource:Value
-                fieldName="CODE_ID"/>
-                <resource:Value
-                fieldName="GROUP_ID"/>
-                <resource:Value
-                fieldName="CODE_NAME"/>
-                <resource:Value
-                fieldName="CODE_NOTE"/>
-                <resource:Value
-                fieldName="IS_USE"/>
-                <resource:Value
-                fieldName="SORT_CODE"/>
-                <resource:Value
-                fieldName="PARENT_CODE_ID"/>
-            </resource:ListItem>
-        </resource:ListData>
-        <resource:ListData
-        id="diCommonCode_PECLS"
-        ideUniqueId="ID72904edc9e523fb8b81e63feb8ab3a81"
-        modelId="dmCommonCode">
-            <resource:ListItem
-            modelId="dmCommonCode">
-                <resource:Value
-                fieldName="CODE_ID"/>
-                <resource:Value
-                fieldName="GROUP_ID"/>
-                <resource:Value
-                fieldName="CODE_NAME"/>
-                <resource:Value
-                fieldName="CODE_NOTE"/>
-                <resource:Value
-                fieldName="IS_USE"/>
-                <resource:Value
-                fieldName="SORT_CODE"/>
-                <resource:Value
-                fieldName="PARENT_CODE_ID"/>
-            </resource:ListItem>
-        </resource:ListData>
-        <resource:ListData
-        id="diCommonCode_RSTYP"
-        ideUniqueId="ID688dd8d7ee803680b763d0f54c2daa26"
-        modelId="dmCommonCode">
-            <resource:ListItem
-            modelId="dmCommonCode">
-                <resource:Value
-                fieldName="CODE_ID"/>
-                <resource:Value
-                fieldName="GROUP_ID"/>
-                <resource:Value
-                fieldName="CODE_NAME"/>
-                <resource:Value
-                fieldName="CODE_NOTE"/>
-                <resource:Value
-                fieldName="IS_USE"/>
-                <resource:Value
-                fieldName="SORT_CODE"/>
-                <resource:Value
-                fieldName="PARENT_CODE_ID"/>
-            </resource:ListItem>
-        </resource:ListData>
-        <resource:ListData
-        id="diCommonCode_PESEQ"
-        ideUniqueId="ID6a578e5ceb603d9485522d9ab64c6b70"
-        modelId="dmCommonCode"/>
 </resource:DataRepository>
