@@ -1,0 +1,28 @@
+<resource:DataRepository
+    xmlns:resource="http://www.tmaxsoft.com/top/SNAPSHOT/resource"
+    id="drCommonCode"
+    ideUniqueId="IDa3eb23a6cc7030d2a85d7854c8c60836"
+    package="com.tmax.fi.core.dm.codegroup">
+        <resource:ListData
+        id="diCommonCode"
+        ideUniqueId="ID2aad0cbfaf2f369f9caa2ad60ed39a8c"
+        modelId="dmCommonCode">
+            <resource:ListItem
+            modelId="dmCommonCode">
+                <resource:Value
+                fieldName="CODE_ID"/>
+                <resource:Value
+                fieldName="GROUP_ID"/>
+                <resource:Value
+                fieldName="CODE_NAME"/>
+                <resource:Value
+                fieldName="CODE_NOTE"/>
+                <resource:Value
+                fieldName="IS_USE"/>
+                <resource:Value
+                fieldName="SORT_CODE"/>
+                <resource:Value
+                fieldName="PARENT_CODE_ID"/>
+            </resource:ListItem>
+        </resource:ListData>
+</resource:DataRepository>
